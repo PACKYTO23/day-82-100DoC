@@ -5,3 +5,4 @@ Day 82 - Professional Portfolio Project - [Python Scripting]
 
 Specific (and short) notes and titles written in main.py.
   Unfinished practice (30/09/2024); update tomorrow.
+    Finished practice (01/10/2024); updated.
